@@ -8,3 +8,6 @@
 * # Admin Account:
 * Login: admin
 * Paswword: admin 
+
+# Update:
+* Download, Replace and update DB.
