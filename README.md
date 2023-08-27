@@ -1,4 +1,6 @@
 # MC Wotlk 3.3.5a High Rates Server REPACK.
+* Server: https://molten.online
+
 # Download and UNZIP.
 
 # MySQL:
